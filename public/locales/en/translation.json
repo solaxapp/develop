@@ -1,0 +1,126 @@
+{
+  "common": {
+    "per": "per",
+    "price": "Price",
+    "swap": "Swap",
+    "blog": "Blog",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "apy": "APY",
+    "resources": "resources",
+    "contact": "contact",
+    "social": "social",
+    "documents": "documents",
+    "disconnectWallet": "Disconnect wallet",
+    "feeAccount": "Fee account",
+    "add": "Add",
+    "pools": "Pools",
+    "liquidity": "Liquidity"
+  },
+  "currencyInput": {
+    "balance": "Balance: "
+  },
+  "messages": {
+    "successCopyWalletAddress": "Wallet address copied!",
+    "popUpMessage": "The app is still under construction. Be careful using funds on the mainnet, instead use the testnet."
+  },
+  "poolsPage": {
+    "title": "POOLS",
+    "volume30": "Volume 30D",
+    "fees30": "Fees 30D",
+    "apr30": "Apr 30D"
+  },
+  "swapAppBar": {
+    "swap": "Swap",
+    "liquidity": "Liquidity",
+    "pools": "Pools",
+    "farms": "Farms",
+    "staking": "Staking",
+    "theme": "Theme",
+    "profile": "My profile"
+  },
+  "poolDetails": {
+    "share": "Share of pool"
+  },
+  "poolConfig": {
+    "title": "Pool configuration",
+    "lps": "LPs Trading Fee:",
+    "owner": "Owner Trading Fee:",
+    "withdraw": "Withdraw Fee:",
+    "curve": "Curve Type:",
+    "cProduct": "Constant Product",
+    "cPrice": "Constant Price",
+    "offsetCProduct": "Offset Constant Product",
+    "tokenBPrice": "Token B constant price:"
+  },
+  "footer": {
+    "resources": [
+      {
+        "title": "GITHUB",
+        "link": "https://github.com/SOLAXDEX",
+        "isGreen": "false"
+      },
+      {
+        "title": "WHITE PAPER",
+        "link": "https://docs.google.com/document/d/1bqNa7AG0HZSRerClKIZPwohYVb3YgxJPAUXzgjz__lE/edit?usp=sharing",
+        "isGreen": "false"
+      },
+      {
+        "title": "PITCH DECK",
+        "link": "",
+        "isGreen": "false"
+      },
+      {
+        "title": "COINGECKO",
+        "link": "",
+        "isGreen": "true"
+      },
+      {
+        "title": "COINMARKETCAP",
+        "link": "",
+        "isGreen": "true"
+      }
+    ],
+    "contact": [
+      {
+        "title": "hello@solax.app",
+        "link": "mailto:hello@solax.app"
+      }
+    ]
+  },
+  "swapPage": {
+    "from": "From",
+    "to": "To (estimate)",
+    "title": "SWAP",
+    "slippageTolerance": "Slippage tolerance",
+    "connectWallet": "Connect Wallet",
+    "tradeInfo": {
+      "minimumReceived": "Minimum Received:",
+      "minimumReceivedTooltip": "You transaction will revert if there is a large, unfavorable price movement before it is confirmed.",
+      "priceImpactTooltip": "The difference between the market price and estimated price due to trade size.",
+      "priceImpact": "Price impact:",
+      "liquidityProviderFee": "Liquidity Provider Fee:"
+    }
+  },
+  "poolPage": {
+    "title": "POOLS"
+  },
+  "liquidityPage": {
+    "slippageTolerance": "Slippage tolerance",
+    "title": "Provide liquidity",
+    "from": "From",
+    "to": "To (estimate)",
+    "poolInfo": "Pool info",
+    "liquidityDescription": "Liquidity providers earn a fixed percentage fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+  },
+  "userProfilePage": {
+    "title": "Your wallet",
+    "noPools": "No pools",
+    "poolLinkText": "Create pool.",
+    "noTokens": "No tokens",
+    "tokenIcon": "Icon",
+    "tokenName": "Name",
+    "tokenAddress": "Address",
+    "tokenAmount": "Amount"
+  }
+}

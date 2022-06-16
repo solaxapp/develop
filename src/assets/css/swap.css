@@ -1,0 +1,11 @@
+.wallet-adapter-button-trigger {
+    background: #111a2f !important;
+    box-shadow: inset 0px 0px 40px #00000029, 0px 0px 20px #00000029;
+    border-style: inset;
+    cursor: pointer;
+    color: white;
+}
+
+.wallet-adapter-button {
+    margin-left: 10px;
+}
